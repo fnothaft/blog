@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fnothaft.github.io/blog/sitemap.xml 
